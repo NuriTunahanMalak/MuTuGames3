@@ -1,0 +1,4 @@
+repository "2DprojecOfMurat/2DprojecOfMurat@18967868194932@cloud"
+  path "/"
+    br "/main"
+    co "/main"
